@@ -105,11 +105,11 @@ with st.form(
             
 if len(result):
     st.write("Question")
-    st.info(response["predictions"][0]["question"])
+    st.info(response["prediction"]["query"])
     st.write("Real answer")
-    st.info(response["predictions"][0]["answer"])
+    st.info(response_text)
     st.write("Answer provided by the AI App")
-    st.info(response["predictions"][0]["result"])
+    st.info(response["prediction"]["result"])
     st.write("Therefore, the AI App answer was")
     st.info(response["graded_outputs"][0]["results"])
 
