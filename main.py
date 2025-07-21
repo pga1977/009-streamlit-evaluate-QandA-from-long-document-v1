@@ -19,7 +19,7 @@ def generate_response(uploaded_file, openai_api_key, query_text, response_text):
     retriever = db.as_retriever()
 
     # QA Chain con modelo chat
-    llm = ChatOpenAI(openai_api_key=openai_api_key, model="gpt-4o")  # Puedes cambiar a gpt-3.5-turbo
+    llm = ChatOpenAI(openai_api_key=openai_api_key, model="gpt-4o-mini")  
     
     qachain = RetrievalQA.from_chain_type(
         llm=llm,
