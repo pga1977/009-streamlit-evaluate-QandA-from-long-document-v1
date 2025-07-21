@@ -6,69 +6,44 @@ from langchain_community.vectorstores import FAISS
 from langchain.chains import RetrievalQA
 from langchain.evaluation.qa import QAEvalChain
 
-def generate_response(
-    uploaded_file,
-    openai_api_key,
-    query_text,
-    response_text
-):
-    #format uploaded file
+def generate_response(uploaded_file, openai_api_key, query_text, response_text):
     documents = [uploaded_file.read().decode()]
     
-    #break it in small chunks
-    text_splitter = CharacterTextSplitter(
-        chunk_size=1000,
-        chunk_overlap=0
-    )
+    # Text splitting
+    text_splitter = CharacterTextSplitter(chunk_size=1000, chunk_overlap=0)
     texts = text_splitter.create_documents(documents)
-    embeddings = OpenAIEmbeddings(
-        openai_api_key=openai_api_key
-    )
-    
-    # create a vectorstore and store there the texts
+
+    # Embeddings and Vectorstore
+    embeddings = OpenAIEmbeddings(openai_api_key=openai_api_key)
     db = FAISS.from_documents(texts, embeddings)
-    
-    # create a retriever interface
     retriever = db.as_retriever()
+
+    # QA Chain con modelo chat
+    llm = ChatOpenAI(openai_api_key=openai_api_key, model="gpt-4o")  # Puedes cambiar a gpt-3.5-turbo
     
-    # create a real QA dictionary
-    real_qa = [
-        {
-            "question": query_text,
-            "answer": response_text
-        }
-    ]
-    
-    # regular QA chain
     qachain = RetrievalQA.from_chain_type(
-        llm=OpenAI(openai_api_key=openai_api_key),
+        llm=llm,
         chain_type="stuff",
-        retriever=retriever,
-        input_key="question"
+        retriever=retriever
     )
+
+    # Invocación directa
+    prediction = qachain.invoke({"query": query_text})
     
-    # predictions
-    predictions = qachain.apply(real_qa)
-    
-    # create an eval chain
-    eval_chain = QAEvalChain.from_llm(
-        llm=OpenAI(openai_api_key=openai_api_key)
-    )
-    # have it grade itself
+    # Evaluación
+    eval_chain = QAEvalChain.from_llm(llm=llm)
     graded_outputs = eval_chain.evaluate(
-        real_qa,
-        predictions,
+        examples=[{"question": query_text, "answer": response_text}],
+        predictions=[{"result": prediction["result"]}],
         question_key="question",
         prediction_key="result",
         answer_key="answer"
     )
     
-    response = {
-        "predictions": predictions,
+    return {
+        "prediction": prediction,
         "graded_outputs": graded_outputs
     }
-    
-    return response
 
 st.set_page_config(
     page_title="Evaluate a RAG App"
