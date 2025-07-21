@@ -1,10 +1,9 @@
-import streamlit as st
-from langchain_openai import OpenAI
+from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 from langchain.text_splitter import CharacterTextSplitter
-from langchain_community.embeddings import OpenAIEmbeddings
 from langchain_community.vectorstores import FAISS
 from langchain.chains import RetrievalQA
 from langchain.evaluation.qa import QAEvalChain
+import streamlit as st
 
 def generate_response(uploaded_file, openai_api_key, query_text, response_text):
     documents = [uploaded_file.read().decode()]
