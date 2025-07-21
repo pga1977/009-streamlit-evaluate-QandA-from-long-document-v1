@@ -1,0 +1,225 @@
+﻿
+
+
+
+
+OBSERVATORIO 
+DE INTELIGENCIA ARTIFICIAL 
+EN EDUCACION SUPERIOR
+
+
+
+
+Informe OIAES#2 (xx marzo 2024) 
+La universidad de la inteligencia artificial
+
+
+
+
+
+
+
+PRÓLOGO
+
+
+El primer informe del Observatorio, emitido en septiembre de 2023, analizó el posible impacto de la inteligencia artificial en la educación superior. Este segundo informe trata de anticipar cómo podría ser la universidad en un futuro, una vez que la inteligencia artificial esté suficientemente desarrollada e implementada. El propósito con este ejercicio de prospectiva es dar luz sobre cómo podría ser la universidad del futuro, para que cada entidad pueda establecer su hoja de ruta, de manera que la transición sea lo más racional y ordenada posible. No obstante, la enorme incertidumbre existente obliga a ser extremadamente prudentes con cualquier predicción, y a seguir de manera muy cercana y continua la evolución de los acontecimientos, para ajustar cualquier posible plan de acción en tiempo y forma. 
+
+
+
+
+
+
+
+1. Alonso, Amparo (Universidad de La Coruña).
+2. Avila García, Orlando (ARQUIMEA).
+3. Barro Ameneiro, Senén (Universidad de Santiago de Compostela).
+4. Carrasco González, Ramón (Universidad Complutense de Madrid).
+5. Gil Lizasoain, Elena (TELEFONICA).
+6. González Aranda, Pedro (Publiespaña – MEDIASET España).
+7. Llorens Largo, Faraón (Universidad de Alicante).
+8. Maximiano, Nuno (IBM).
+Observatorio de Inteligencia Artificial en Educación Superior (OIAES)
+ Expertos externos
+
+
+
+1. Beunza Nuin, Juan José
+2. García Cuenca, Laura
+3. Gaya López, María Cruz
+4. Gómez Vergel, Daniel
+5. González Soltero, Rocío
+6. Lara Bercial, Pedro
+7. López López, José Manuel
+8. Mariscal, Gonzalo
+9. Martínez Requejo, Sonia
+10. Monsalve, Borja
+11. Puertas Sanz, Enrique
+12. Rodríguez Marin, Juan José
+13. Suárez García, Ana
+14. Sols Rodríguez-Candela, Alberto
+15. Velasco Quintana, Paloma
+Observatorio de Inteligencia Artificial en Educación Superior (OIAES) 
+Profesores de la Universidad Europea de Madrid
+
+
+
+
+
+
+
+LA UNIVERSIDAD DE LA IA
+
+1. OBJETIVO DEL INFORME
+El objetivo fundamental de este informe es proyectar el futuro de la universidad, en el contexto actual, de la influencia creciente de la inteligencia artificial (IA).  Este informe aspira a ofrecer una visión integral y prospectiva que sirva de guía tanto para la toma de decisiones en el ámbito educativo como para la formación del profesorado, contribuyendo así a la preparación de la comunidad universitaria para los desafíos y oportunidades que la IA pueda presentar en el futuro.
+2. DEFINICIÓN DEL CONTEXTO
+La universidad ha tenido varios cambios de ciclo en su historia. Pasamos de la formación en academias de la antigüedad clásica, donde los maestros enseñaban a sus discípulos en grupos muy reducidos para transmitir su experiencia y conocimiento, a las primeras universidades de la época medieval, universidades del conocimiento, con un currículo establecido y con centros específicos. En estas universidades los contenidos y la transmisión de estos era el objetivo perseguido. La siguiente evolución vino de la mano de la imprenta, que permitió la transmisión del conocimiento más allá de las clases magistrales, extendiéndolo a un público más amplio. La evolución trasladó el objetivo del aprendizaje desde el conocimiento al desarrollo competencial de la mano del desarrollo de las comunicaciones, que extendían aún más el conocimiento en cualquier lugar a través de los ordenadores y de los sistemas de comunicaciones. 
+Las circunstancias sociales más recientes, junto con los últimos avances tecnológicos, nos demuestran que nos encontramos ante un escenario clave que hace prever un nuevo paradigma del modelo universitario. Las tecnologías de la información y las comunicaciones ya permitían desde hace tiempo ofrecer una formación superior a distancia, pero situaciones como el confinamiento provocado por la pandemia de COVID, han forzado a los principales actores a acometer cambios que hoy por hoy demuestran que es perfectamente posible poder [PJLB1]formar y aprender de manera ubicua forma parte del presente. Esto ha provocado que gran parte del conocimiento que se transmitía de forma síncrona y oral, ahora esté disponible para una formación en diferido. La IA puede entonces aprovechar esos contenidos para transformarlos y ofrecerlos en otros idiomas, además que incorporarlos a su base de conocimiento, sirviendo para nutrir a nuevos sistemas y asistentes inteligentes, disponibles para los estudiantes. 
+Por otro lado, las empresas ya no demandan solo perfiles de egresados con cerebros cargados de información, sino que buscan personas con habilidades para localizar, acceder, relacionar y validar esa información accesible a través de la tecnología.
+Otro de los conceptos clave que con los nuevos avances puede entrar en escena, es el de la personalización del aprendizaje, pudiendo adecuar el currículum al nivel de partida de los estudiantes, a su desempeño e, incluso a sus intereses a través de estos sistemas inteligentes.
+Además, será inevitable que los nuevos estudiantes que accedan a la Educación Superior ya hayan utilizado la IA para avanzar en su aprendizaje y, por lo tanto, la Universidad debe estar preparada para esa realidad.
+3. EVOLUCIÓN DEL ROL DE LA UNIVERSIDAD
+Según algunos autores, la función social de la universidad fue en sus inicios crear conocimiento y propagarlo, desarrollando y disciplinando la inteligencia para formar personas más selectas, bien por su cultura, o bien por su capacidad.[MS2]
+Acorde con Naciones Unidas, la educación superior permite a los individuos expandir sus conocimientos y habilidades, expresar de forma clara sus pensamientos tanto de forma oral como escrita, entender y dominar conceptos y teorías abstractas, e incrementar su comprensión acerca de sus comunidades y del mundo.[MS3]
+Al margen del debate acerca de si la universidad debe formar únicamente para desarrollar los profesionales que la sociedad demanda o no, lo que parece evidente es que, en cualquier caso, el papel de la educación superior debe ser el de generar conocimiento y formar personas para que puedan desarrollarse en libertad, aspirando a alcanzar un mayor nivel cultural, una mayor y mejor empleabilidad, o ambos.[MS4]
+La reciente democratización del acceso a la Inteligencia Artificial generativa ha visibilizado la capacidad de las máquinas para desarrollar tareas que hasta ahora parecían reservadas únicamente a los humanos. Ahora, no solo podemos tomar decisiones apoyándonos en la IA, sino que podemos conversar con ella, en base al conocimiento con el que haya sido entrenada, e incluso podemos pedirle que cree para nosotros siguiendo los criterios que decidamos y que previamente haya aprendido a reconocer. Estas capacidades amplían enormemente el impacto que esta tecnología puede tener en el papel y en los objetivos de la Universidad de la era de la IA puesto que se convertirá en un actor más en la generación de conocimiento. 
+Por un lado, la Universidad de la IA tendrá a su disposición la posibilidad de crear agentes inteligentes, o copilotos, que le permitirán realizar de forma más rápida, especializada y personalizada muchas de las tareas que actualmente recaen en los docentes e investigadores y que están relacionadas básicamente con la transmisión de conocimiento y su puesta en práctica, o con la generación de nuevo conocimiento. Pero, además, obligará a las universidades a rediseñar la manera en la que van a cumplir con sus objetivos fundamentales, que, en esencia, no parece que vayan a cambiar.
+En este sentido, según nuestra perspectiva, la universidad se deberá mover hacia una visión más humanista de la formación de personas. La propia UNESCO (2019) exigía un enfoque de la IA centrado en el ser humano[MS5]. La IA en la educación debe tener el objetivo de mejorar las capacidades humanas, asegurando la protección de los derechos humanos, para una colaboración eficaz entre las personas y las máquinas que garantice el desarrollo sostenible. La Universidad, como parte fundamental del proceso educativo, no puede quedarse al margen y, por tanto, deberá preocuparse más por enseñar a pensar, antes que transmitir y generar conocimiento, asegurando el desarrollo de valores, principios y actitudes, todas ellas cuestiones intrínsecamente humanas. Deberá promover el pensamiento crítico y el desarrollo competencial de habilidades blandas como la inteligencia emocional, por ejemplo. 
+El objetivo no se centrará únicamente en transmitir contenido sino en capacitar al estudiante para que, en su área de aplicación, sea capaz de manejar toda la información disponible o generarla con la ayuda de herramientas de IA. Del mismo modo que será necesario hacerles competentes  para evaluar la veracidad de la información, tomar decisiones y llevar a cabo las acciones que se deriven de ellas conforme a valores y comportamientos éticos intrínsecamente humanos. 
+Esto pasa indefectiblemente por capacitar a los estudiantes para:
+• Buscar, filtrar, analizar información y generar nuevo conocimiento a partir de ella.
+• Identificar opciones, evaluarlas, enjuiciar resultados y tomar decisiones.
+• Diseñar, planificar y ejecutar planes, proyectos, iniciativas o acciones derivadas de los análisis
+• Ejercer competencias específicas de su área de conocimiento, adquiridas por práctica repetida, supervisada y guiada.
+• Hacer todo lo anterior, utilizando la IA de forma ética cumpliendo la regulación y los códigos de conducta que se vayan desarrollando y adoptando por las diferentes comunidades internacionales.
+En definitiva, el estudiante debe aprender cómo identificar los problemas a afrontar, cómo hacer las preguntas adecuadas (a otras personas, equipos o incluso IA’s) para identificar las acciones que le permitan, eventualmente, diseñar planes, buscar soluciones posibles, viables y factibles con los recursos disponibles. Deberá tener capacidad para seleccionar las mejores opciones, ponerlas en práctica, evaluar el resultado y tomar decisiones correctivas si fuera necesario. Y todo ello, teniendo en cuenta la existencia y el impacto de la Inteligencia Artificial.
+
+Por último, más allá de su rol formativo, la universidad jugará otros papeles con otros fines. Por ejemplo:
+• Además de generar conocimiento, contrastar, asegurar y certificar la validez de dicho nuevo conocimiento, probablemente haciendo uso de la propia IA.
+• Fortalecer mucho más su rol como potenciadora de innovación, siendo una incubadora que propicie un entorno controlado para la innovación científico-tecnológica, también aquella derivada de la IA
+• Actuar como supervisora de desarrollos tecnológicos de terceros, en especial los de IA que desarrollen empresas e instituciones ajenas a la Universidad que requerirán de ella su sello de aseguramiento de la calidad y la ética según la normativa de aplicación que corresponda. Por ejemplo, la universidad podría garantizar que los desarrollos cumplen con el llamado Proceso de Hiroshima[SR6], que es un código de conducta internacional que tiene por objeto promover una IA segura, protegida y fiable en todo el mundo  
+• Certificador y acreditador competencias profesionales que no tiene por qué haber sido desarrolladas en el seno de la propia universidad. En este papel podrían asociarse con empresas que avalarían de alguna forma el valor de dichas competencias.
+
+
+
+4. TRANSFORMACIÓN DE LA EDUCACIÓN SUPERIOR
+
+4.1 CAMBIOS EN LA UNIVERSIDAD
+Con la plena implementación de la inteligencia artificial, la sociedad experimentará una transformación profunda e inevitable que también afectará significativamente a la educación superior. La manera en la que los estudiantes adquirirán conocimientos, habilidades y competencias será radicalmente distinta a la actual. El papel de la universidad como entidad acreditadora de los resultados de aprendizaje adquiridos se fortalecerá considerablemente por la amplia disponibilidad de agentes virtuales que los estudiantes tengan a su disposición. La Tabla 1 resume las principales diferencias entre el entorno actual y un posible escenario previsible. 
+Tabla 1. Comparativa de las características de la educación superior.
+Características de la enseñanza en la educación superiorUniversidad actualUniversidad del futuro (IA)MatriculaciónEn una titulación.En la universidad (salvo en el caso de algunos títulos habilitantes, como medicina o arquitectura).Programa estudiado y plan de estudiosEstándar; todos estudian alguno de los títulos que se ofrecen. Muy poco personalizado. Planes muy fijos, con muy pocas asignaturas optativas.Programas a medida, salvo casos excepcionales de profesiones muy reguladas (arquitectura, medicina, etc.). El estudiante elige las asignaturas que le reportarán los resultados de aprendizaje que desea alcanzar y tener acreditados.Ritmo de estudiosEstándar; de forma general, se cursan 60 ECTS al año con cierta flexibilidad.Muy personalizado; cada estudiante podrá decidir los ECTS a cursar en cada momento, en función de sus intereses y capacidad de estudio.Materiales de estudioEstándar; apuntes y recursos iguales para todos.Muy personalizados; habrá textos, audios, presentaciones, vídeos, etc., Cada estudiante usará los que mejor se adapten a su forma de aprender.Rol del profesorEs el responsable de la impartición de cada asignatura.Más papel de coach y mentor, siendo el guía del aprendizaje y el curador de los contenidos, trasladando al estudiante su experiencia.ClasesTodas las asignaturas tienen sus horas de clase asignadas desde comienzo de curso; las horas de clase dependen del número de ECTS de la asignatura.Cada asignatura ofrece un número de horas de contacto a los estudiantes, más en forma de talleres tutorizados que de clases regladas. Algunas asignaturas sí pueden tener, por su especial naturaleza, un número de horas de clase obligatorias, para abordar temas de especial complejidad.Trabajo en equiposLos trabajos grupales o en equipos se llevan a cabo en cada asignatura y, normalmente, el profesor asigna los grupos.Habrá trabajos que el estudiante deba hacer en grupo, uniéndose voluntariamente a alguno, o solicitando que se le asigne grupo.Trabajo de fin de grado o fin de másterTrabajo normalmente individual, que supone la culminación de los estudios cursados.Desaparece este último trabajo, salvo en titulaciones muy reguladas.Sistemas de evaluación y certificaciónImportantes, porque proporcionan una medida objetiva y fiable del rendimiento de los estudiantes y permiten a los docentes ajustar sus métodos de enseñanza y el curriculum de la materia para mejorar el aprendizaje. Extremadamente importantes, ya que la
+IA permite identificar patrones de aprendizaje y áreas específicas que requieren especial atención y diseñar evaluaciones competenciales adaptativas que se ajusten automáticamente al nivel de cada estudiante, maximizando así su potencial de aprendizaje.Fuente: Elaboración propia
+En la universidad de la IA, tanto estudiantes como profesores y personal no docente contarán con numerosos agentes virtuales personalizados que les ayudarán a ser más efectivos y eficaces en el desempeño de sus tareas. Al no haber títulos concretos, salvo las mencionadas excepciones, sino que se enfatizarán los resultados de aprendizaje, como el conocimiento, las habilidades y las competencias adquiridas por el estudiante, se difumina la frontera entre la educación universitaria y la actividad profesional. Los estudiantes comenzarán sus estudios y, a partir de un cierto momento, podrán comenzar una actividad profesional que podrán combinar con su proceso educativo, adaptándolo a su propio ritmo de aprendizaje.
+La universidad ve reforzado su papel como certificadora y acreditadora de competencias, en respuesta a la creciente necesidad de empresas y organismos de asegurar que las personas que contraten tienen las competencias requeridas. Para ello, los sistemas de evaluación se volverán especialmente críticos, ya que los estudiantes tendrán múltiples recursos a su disposición, dentro y fuera de la universidad, para adquirir conocimientos, habilidades o competencias, incluyendo herramientas de inteligencia artificial generativa. La universidad deberá desempeñar un papel más destacado como garante de la autenticidad de los trabajos con los que los estudiantes logren acreditar sus conocimientos y competencias. 
+
+4.2 PLANES DE ESTUDIO
+Se prevé una transformación en la estructura actual de los planes de estudios y de los títulos que están asignados a las facultades. Salvo en algunas profesiones muy reguladas, como medicina y arquitectura, el estudiante no se matriculará en una facultad; solo en una universidad, donde hará su itinerario de estudios para alcanzar las competencias necesarias según sus objetivos profesionales. 
+En el caso de profesiones altamente reguladas y los itinerarios libres de estudios, podrían surgir situaciones intermedias similares a los programas habilitantes actuales. Esto se observa especialmente en áreas como algunas ingenierías, fisioterapia o psicología, donde las competencias a alcanzar están ampliamente establecidas por algún organismo regulador.
+Esta transformación se centrará en la personalización del aprendizaje, dando lugar a modelos de currículos más flexibles y adaptados a los intereses y capacidades individuales de los estudiantes. Esta flexibilidad curricular fomentará una mayor interdisciplinariedad en los planes de estudio, permitiendo a los estudiantes combinar materias de diferentes áreas, preparándolos para un mercado laboral que valora cada vez más la capacidad de trabajar a través de disciplinas.
+En este nuevo entorno educativo, la comprensión y el uso de la inteligencia artificial se convertirán en competencias esenciales en todos los itinerarios, y será necesario incorporar un enfoque ético y responsable en el uso de las nuevas tecnologías.
+Los itinerarios formativos serán flexibles, personalizables y revisables al final de cada curso, adaptándose a las necesidades y preferencias individuales de los estudiantes, y manteniendo el contenido actualizado con los avances más recientes. Estos itinerarios integrarán diferentes áreas de conocimiento, generando titulaciones híbridas y fomentando la formación de polímatas.
+En lugar de basarse en contenidos y actividades formativas, los planes de estudios se centrarán en resultados de aprendizaje y sistemas de evaluación adaptativos y personalizados. El objetivo principal será asegurar que los estudiantes alcancen resultados concretos de aprendizaje, reconociendo que el aprendizaje puede ocurrir en cualquier momento y lugar. La inteligencia artificial desempeñará un papel crucial en este proceso, facilitando evaluaciones personalizadas y continuas del progreso de los estudiantes. 
+Para implementar estos itinerarios formativos, será esencial la integración de equipos multidisciplinares, que incluyan especialistas en educación, apoyados por un asistente de inteligencia artificial. Esta colaboración asegurará una diversidad de perspectivas y habilidades, fundamentales para el desarrollo de planes de estudios que respondan efectiva y equilibradamente a las necesidades individuales de cada estudiante. El agente virtual personalizado de inteligencia artificial aportará sus capacidades analíticas avanzadas para identificar patrones y tendencias, ayudando en el proceso de toma de decisiones.
+Los estudiantes serán capaces de comprender, aplicar y crear, con independencia del tiempo que pasen físicamente en un aula, ya sea presencialmente o virtual, o del que dediquen a tareas académicas. Con sistemas avanzados de seguimiento y análisis, la inteligencia artificial podrá evaluar continuamente el progreso de los estudiantes, identificando áreas de fortaleza y mejoras, y adaptando los materiales y enfoques de enseñanza para satisfacer sus necesidades individuales. Además, se podrán llevar a cabo evaluaciones más personalizadas, alejándose de los métodos tradicionales basados en exámenes y adoptando formas de evaluación que reflejen de manera más precisa y holística el aprendizaje y el perfil de cualificación adquirido por el estudiante.
+En este sentido, el estudiante realizará una evaluación inicial de su perfil de cualificación, que estará conformado por conocimientos, habilidades, competencias y preferencias personales. Un agente virtual personalizado identificará y propondrá el itinerario formativo personalizado que mejor se adapte a su perfil y a sus necesidades. Este itinerario incluirá una planificación de actividades de aprendizaje y contenidos específicamente seleccionados para ayudar al estudiante a desarrollar los conocimientos, las habilidades o las competencias que le falten.
+Como el estudiante podrá aprender en diferentes entornos, complementando lo que la universidad le ofrezca con otros recursos disponibles, y considerando que lo fundamental son las competencias alcanzadas, el rol certificador y acreditador de la universidad adquiere mayor importancia. Esto implica que el prestigio de la universidad será más relevante en el futuro, ya que facilitará la adquisición de conocimientos, habilidades y competencias, y será garante de los niveles de desempeño alcanzados en cada aprendizaje. En la sociedad de especialización en tareas y conocimiento, el papel certificador de la universidad será más importante que nunca. 
+
+4.3 ASIGNATURAS/MATERIAS
+Las asignaturas o materias que el estudiante cursará para desarrollar y alcanzar el perfil de cualificación deseado podrán agruparse en dos grandes categorías:
+1. Asignaturas guiadas por inteligencia artificial: en estas asignaturas, los estudiantes interactuarán directamente con sistemas de inteligencia artificial como parte de su proceso de aprendizaje. La inteligencia artificial no solo facilitará el acceso a información relevante, sino que también permitirá a los estudiantes solicitar resúmenes específicos de temas complejos utilizando descriptores concretos. Además, podrán evaluar y filtrar las respuestas proporcionadas por la inteligencia artificial, construyendo así su propio contenido educativo. Este enfoque no solo garantizará la adquisición de conocimientos teóricos, sino que también promoverá el desarrollo de habilidades y competencias esenciales en la interpretación y gestión de información generada por la inteligencia artificial, preparando a los estudiantes para enfrentar los desafíos del mundo digital en constante evolución.
+2. Asignaturas sobre inteligencia artificial propiamente dicha: se centrarán en enseñar cómo utilizar la inteligencia virtual de manera transversal y multidisciplinar. Se basarán en casos prácticos que puedan beneficiarse de la aplicación de la inteligencia artificial y abordarán su uso desde diferentes perspectivas: técnica, ética y sostenible. 
+
+4.4 ACCIONES FORMATIVAS
+La universidad del futuro, como se ha dicho, se centrará en la personalización del aprendizaje, con acciones formativas diseñadas para adaptarse a las necesidades individuales de los estudiantes. A través de una amplia variedad de actividades de aprendizaje, los estudiantes podrán desarrollar los conocimientos, habilidades y competencias necesarios para su futuro profesional. Adaptando su aprendizaje de manera efectiva para satisfacer las demandas del mercado laboral en constante cambio.
+1. Las clases teóricas, prácticas o teórico-prácticas tradicionales seguirán siendo relevantes como espacios de discusión y aprendizaje de contenidos complejos que requieren interacción directa con un docente. 
+2. Las actividades de simulación, tanto presenciales como virtuales, respaldadas por inteligencia artificial, proporcionarán a los estudiantes experiencias prácticas y realistas esenciales para el aprendizaje efectivo, al recrear situaciones complejas o peligrosas que podrían resultar difíciles o incluso imposibles de experimentar en la vida real.
+3. Las investigaciones y proyectos permitirán a los estudiantes colaborar con empresas o grupos de investigación, participando activamente en la toma de decisiones y la ejecución de tareas gracias al uso de herramientas basadas en inteligencia artificial.  Esto les proporcionará perspectivas más profundas que les permitirá realizar análisis más complejos, mejorando así su contribución a los proyectos en los que participen, fortaleciendo su comprensión del método científico y preparándolos para itinerarios centrados en la investigación y la innovación.
+4. Los talleres presenciales y a distancia con grupos interprofesionales serán clave para resolver problemas o realizar proyectos complejos, y para integrar conocimientos adquiridos y desarrollar habilidades relacionales necesarias para el trabajo en equipo efectivo.
+5. El trabajo autónomo guiado por un agente virtual personalizado permitirá a los estudiantes adquirir conocimientos, habilidades y competencias específicas de su itinerario formativo a su propio ritmo y con una metodología personalizada. 
+
+4.5 SEGUIMIENTO
+El seguimiento y la emisión de alertas o avisos sobre el rendimiento de los estudiantes y las posibles necesidades de refuerzos o acciones correctoras estarán principalmente a cargo de una inteligencia artificial supervisada por los docentes. Se llevará a cabo un seguimiento continuo y personalizado del desempeño de los estudiantes, identificando de forma temprana los estudiantes que puedan estar en riesgo de bajo rendimiento. En estos casos, un agente virtual de inteligencia artificial podría emitir alertas automáticas tanto a los docentes como a los estudiantes, permitiendo adoptar medidas correctivas, como apoyo académico adicional o asesoramiento personalizado, para ayudar a los estudiantes a superar obstáculos y mejorar su desempeño. 
+Además de abordar desafíos académicos, la inteligencia artificial también contribuirá significativamente a reforzar la atención a la diversidad en el entorno educativo. Al proporcionar funciones como subtítulos automáticos y transcripciones de audio, la inteligencia artificial facilitará la participación plena de estudiantes con necesidades especiales. Este enfoque inclusivo garantizará que todos los estudiantes, independientemente de sus habilidades o limitaciones, tengan acceso a la educación de manera equitativa. La capacidad de personalizar la asistencia a cada estudiante según sus necesidades específicas demuestra cómo la inteligencia artificial no solo mejora el rendimiento general, sino que también promueve la igualdad de oportunidades en el ámbito educativo.
+
+4.6 EVALUACIÓN
+Como se mencionó anteriormente, será más crítico el papel de la universidad como certificador o acreditador de los resultados de aprendizaje alcanzados por el estudiante. Entre las competencias que los estudiantes adquirirán está una transversal básica, la capacidad para utilizar eficaz y éticamente las herramientas de inteligencia artificial, generativa y predictiva. También será esencial certificar o acreditar que los estudiantes han alcanzado las competencias requeridas para el trabajo en equipo, como la escucha activa y la comunicación efectiva, la resiliencia, entre otras. 
+La evolución de la evaluación educativa impulsada por la inteligencia artificial transformará tanto la forma de retroalimentación como la naturaleza de las evaluaciones. En lugar de depender exclusivamente de la revisión manual de actividades y exámenes, los sistemas de inteligencia artificial desempeñarán un papel predominante al proporcionar retroalimentación instantánea y personalizada a los estudiantes. Esta revolución en la retroalimentación no se limitará únicamente a la corrección de respuestas, sino que también abarcará la orientación en proyectos de investigación, identificando áreas de fortaleza y oportunidades de mejora de manera precisa y eficiente. 
+La evaluación oral también experimentará una revolución con la intervención de la inteligencia artificial. No se limitará a analizar el contenido de las respuestas de los estudiantes; irá más allá, evaluando aspectos como la fluidez, la estructura argumentativa y la expresión emocional. Este enfoque integral proporcionará una comprensión más completa del dominio del tema por parte de los estudiantes. La facultad de la inteligencia artificial para evaluar la expresión emocional puede llevar la evaluación a un nivel superior, permitiendo no solo medir el conocimiento factual, sino también la capacidad del estudiante para comunicar eficazmente sus ideas y emociones. 
+Las evaluaciones experienciales, apoyadas por entornos virtuales inmersivos y simulaciones generadas por la inteligencia artificial, representarán otro hito en la transformación de la evaluación educativa. Estas evaluaciones permitirán a los estudiantes demostrar sus conocimientos, habilidades y competencias en contextos que imiten situaciones del mundo real. La autenticidad de estas evaluaciones se verá reforzada por la capacidad de la inteligencia artificial para crear escenarios complejos que reflejen desafíos y problemas actuales. Este enfoque medirá el conocimiento teórico de los estudiantes y evaluará su capacidad para aplicarlo en situaciones prácticas reales, proporcionando una valoración más auténtica de su capacidad para aplicar los resultados de aprendizaje adquiridos en la práctica. 
+La inteligencia artificial no solo cambiará la forma en que se evalúan los conocimientos, sino que también transformará la naturaleza misma de lo que se evalúa. Los estudiantes no solo serán evaluados por su capacidad de retener información, sino también por su capacidad para pensar críticamente, resolver problemas de manera innovadora y aplicar sus conocimientos, habilidades y competencias en contextos prácticos y desafiantes. En última instancia, la integración de la inteligencia artificial en la evaluación educativa promoverá un enfoque más holístico y auténtico para medir el rendimiento estudiantil, preparándolos mejor para los desafíos del mundo laboral real. 
+
+4.7 ESPACIOS DE APRENDIZAJE 
+Los procesos de aprendizaje y enseñanza se implementarán es espacios tanto presenciales como online más flexibles, con opciones de personalización e inclusivos: 
+a) Espacios de aprendizaje presenciales
+Los campus universitarios se verán transformados configurándose espacios más abiertos y versátiles donde pueden convivir diversas acciones orientadas en los encuentros, el intercambio y la creación conjunta. 
+Las aulas teóricas tal y como se conocen, con el alumnado situado unidireccionalmente, desaparecerán progresivamente integrándose más laboratorios, espacios de trabajo colaborativo, espacios para realizar simulaciones y aulas flexibles que integran mobiliario móvil y recursos tecnológicos que permiten conectar con personas desde otras ubicaciones.
+Estos espacios de aprendizaje permitirán desarrollarse labores como: presentaciones, generación de productos tecnológicos y no tecnológicos, investigación o la interacción personal.
+
+b) Espacios de aprendizaje online
+Los LMS o campus virtuales a los que acceden alumnado y profesorado integrarán inteligencia artificial y ofrecerán funcionalidades como las siguientes:
+• Pruebas evaluativas para identificar perfiles competenciales y así poder generar itinerarios de aprendizaje con la supervisión de los equipos.
+• Seguimiento de los avances en el itinerario personal de aprendizaje. Requiere el tratamiento y visualización efectiva de datos de los estudiantes, del profesorado o equipo de acompañamiento.
+• Lecciones de estudio adaptativas que se muestran de forma diferenciada para cada persona.
+• Analíticas personalizadas para distintos perfiles que faciliten la toma de decisiones.
+• Chatbot para proporcionar respuestas rápidas a preguntas frecuentes y proporcionar orientación y soporte a los estudiantes y profesores durante el proceso de aprendizaje.
+• Personalización de la visualización del entorno
+
+4.8 ACTORES
+Como se ha descrito anteriormente, la inteligencia artificial está revolucionando la enseñanza a todos los niveles, también en educación superior, ofreciendo oportunidades sin precedentes para personalizar y enriquecer el aprendizaje. La IA está redefiniendo los roles y competencias tanto de estudiantes como de docentes. En este contexto, el rol del estudiante evoluciona hacia una mayor autonomía y una participación mucho más activa en su proceso educativo, y el rol del docente se diversifica en cuanto a especialización y funcionalidad.
+a) Perfil del estudiante en la universidad de la IA. 
+El estudiante “del futuro”, independientemente del itinerario educativo que elija, deberá desarrollar algunas competencias transversales. Estas competencias supondrán un reto a su autonomía y visión propia sobre su futuro tanto académico como laboral. Entre las competencias que resaltamos para este perfil de estudiante, estarían:
+
+- Toma de decisiones y gestión de información: En la era digital, los estudiantes se enfrentan a un flujo constante de información. La IA puede ayudar a filtrar y organizar estos datos, pero es esencial que los estudiantes aprendan a analizar la calidad de los datos de partida, tomar decisiones informadas y discutirlas considerando el estado del arte precedente, así a ser críticos con los propios sesgos que el propio uso de la IA podría generar, y poder así tomar decisiones críticas basadas en esta información. 
+- Capacidad de análisis y pensamiento crítico (análisis crítico): Muy ligada a la competencia anterior, está el análisis crítico. Resulta indudable el poder de la IA para proporcionar análisis complejos, pero la interpretación y el cuestionamiento crítico de estos resultados son competencias exclusivamente humanas que deben ser fomentadas en los estudiantes. El alumno deberá trabajar también de forma autónoma en el desarrollo de estas competencias, probablemente tomando un papel más activo de su aprendizaje en el campo de interés.
+- Creatividad:  La IA puede ser una herramienta para potenciar la creatividad, ofreciendo nuevas perspectivas y soluciones. Los estudiantes deben estar formados para utilizar estas herramientas de manera innovadora y efectiva en la solución de problemas.
+- Habilidades interpersonales: La capacidad para trabajar en equipo, comunicarse eficazmente, y resolver conflictos es crucial. La IA puede proporcionar escenarios y simulaciones para el desarrollo de estas habilidades.
+- Conciencia social y ética: Es fundamental educar a los estudiantes en la ética y la responsabilidad social, especialmente en el uso de tecnologías como la IA, promoviendo la integridad y la transparencia. Incluso esta competencia podría integrarse bajo una más generalista que podríamos denominar Humanismo Digital.
+- Autonomía y adaptabilidad: En un mundo en constante cambio, la capacidad de aprender de manera autónoma y adaptarse a nuevas situaciones es esencial. La IA puede ofrecer rutas de aprendizaje personalizadas para fomentar estas habilidades en el alumno
+- Visión global y competencias digitales: La comprensión del contexto global y la anticipación de tendencias son competencias clave. Además, la alfabetización en IA y la actualización constante son necesarias para mantenerse competitivo en el mercado laboral.
+La incorporación de herramientas de IA en el proceso de aprendizaje puede ayudar a desarrollar estas competencias, a modo de ciclo virtuoso, y debe hacerse de manera que complemente y enriquezca el proceso educativo. Esto incluye el uso de sistemas de aprendizaje adaptativo, escenarios interactivos y simulaciones educativas basadas en IA y plataformas que promuevan la colaboración y el pensamiento crítico.
+
+b) Perfil del docente en la era de la IA.
+Con la llegada de la IA, y su efecto transformador en la enseñanza, el papel del docente como transmisor de conocimientos se transformará en el de un facilitador del aprendizaje, guiando y apoyando a los estudiantes.
+Aunque en muchas instituciones universitarias ya se diferencian los perfiles de los docentes, como docentes-investigadores, expertos, etc., se prevé que los perfiles docentes se especialicen más. De este modo, y en base a la visión de la universidad descrita anteriormente, se podría establecer una clasificación funcional de los docentes en: 
+- Investigadores: si como es previsible la Universidad mantiene su vocación de desarrollo de conocimiento, seguirá siendo necesario contar con perfiles de investigación, en las diferentes áreas de conocimiento. Una de esas áreas de investigación debe ser la IA, y debe ir de la mano de los desarrollos que se estén implementando actualmente por las empresas, donde se concentra en los últimos años la mayor parte de la generación del conocimiento en el campo.
+- Expertos en contenido: la Universidad debe erigirse como garante del avance del conocimiento y de la acreditación de la formación y desarrollo de habilidades de los estudiantes. El perfil de experto se especializa en la curación de contenidos en un ámbito de conocimiento y el mantenimiento de un perfil de conocimiento actualizado, con formación continua, en su ámbito de interés. La figura del profesor experto será también la del especialista en el área que además de su actividad profesional, imparte los últimos conocimientos del campo al alumnado universitario
+- Expertos en diseño curricular: con la inmersión de las IAs en el curriculum, será necesario contar con profesores expertos en experiencias o situaciones de aprendizaje. Este perfil de profesor puede ser un perfil innovador/investigador en el campo de la innovación educativa. Con un perfil tecnológico-pedagógico, crean y adaptan herramientas educativas basadas en IA, evaluaciones, itinerarios, etc.
+- Mentores: sería la evolución del “docente actual”, en cuanto que ya no transmitirían conocimientos teóricos, sino que se centrarían en el acompañamiento personalizado de los estudiantes, participando con ellos en escenarios simulados y casos reales, guiándoles, fomentando la autonomía, el trabajo en equipo, el pensamiento crítico, ofreciendo orientación y evaluando su desempeño, por objetivos y competencias (tipo ECOEs).
+La integración de la IA en la enseñanza debe hacerse de manera que amplíe las capacidades del docente y enriquezca la experiencia educativa. Esto incluye la utilización de sistemas de evaluación automatizada, recursos didácticos interactivos y plataformas colaborativas para la investigación y gestión del conocimiento. En función de los perfiles, los docentes necesitarán adquirir y desarrollar competencias específicas, algunas de ellas transversales tales como la actualización de sus competencias digitales y comprensión de los sistemas de IA.
+5. REFLEXIONES/FUTURAS ACCIONES
+
+<< A completar tras la reunión con los expertos >>
+
+
+BIBLIOGRAFÍA
+
+Comisión Europea (2024). Principios rectores internacionales del proceso de Hiroshima para un sistema avanzado de IA. https://digital-strategy.ec.europa.eu/es/library/hiroshima-process-international-guiding-principles-advanced-ai-system
+El, M. (1998). Declaración mundial sobre la educación superior en el siglo XXI: visión y acción. 
+Gómez Zuluaga, ME (2019). Emprendimiento de base tecnológica: Un reto por cumplir. Tec Empresarial, 13(2), 33-44.
+Gan, C., Chen, S., & Chen, G. (2017). The effect of personalized learning on student motivation and performance: A review. Educational Technology Research and Development, 65(5), 1019-1039.
+Houssay, B. A. & Frondizi, R. (1941). Función social de la Universidad. Best Hermanos.
+Morales, R. E. R. (2024). Reflexiones sobre la importancia de las competencias digitales en educación y empleo. Educ@ción en Contexto, 10(20), 189-218.
+Mustafa, S. & M. Bhaskar (2023). The Coming Wave: Technology, Power, and the Twenty-first Century's Greatest Dilemma. Crown. ISBN 9780593593950.
+Nguyen, H., Tran, T., & Nguyen, T. (2019). The impact of personalized feedback on student motivation and performance: A review. Educational Technology Research and Development, 68(5), 891-909.
+Poveda, M. A. A., & Andrade, C. O. V. (2024). Avances tecnológicos en época de pandemia y el uso de las TIC en el ámbito educativo: (Technological advances in times of pandemic and the use of ICT in the educational field. LATAM Revista Latinoamericana de Ciencias Sociales y Humanidades, 5(1), 1519-1530).
+UNESCO. (2019). Beijing consensus on artificial intelligence and education.
+
+
+[PJLB1](Poveda, M. A. A., & Andrade, C. O. V. (2024). Avances tecnológicos en época de pandemia y el uso de las TIC en el ámbito educativo: (Technological advances in times of pandemic and the use of ICT in the educational field. LATAM Revista Latinoamericana de Ciencias Sociales y Humanidades, 5(1), 1519-1530).
+Houssay, B. A. (1941). Función social de la Universidad. Best Hermanos.[MS2]
+Frondizi, R. (1941). Función social de la universidad.
+EL, M. (1998). Declaración mundial sobre la educación superior en el siglo XXI: visión y acción. Gómez Zuluaga, ME (2019). Emprendimiento de base tecnológica: Un reto por cumplir. Tec Empresarial, 13(2), 33-44.[MS3]
+Morales, R. E. R. (2024). Reflexiones sobre la importancia de las competencias digitales en educación y empleo. Educ@ ción en Contexto, 10(20), 189-218.[MS4]
+UNESCO. (2019). Beijing consensus on artificial intelligence and education.[MS5]
+https://digital-strategy.ec.europa.eu/es/library/hiroshima-process-international-guiding-principles-advanced-ai-system[SR6]
+
+
+
+
+
+
+universidadeuropea.com
+
+
+
+
+
